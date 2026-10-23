@@ -1,0 +1,6 @@
+{
+  "name": "تفاصيل بطاقة السائق - بوابة النقل",
+  "description": "صفحة استعلام تفاصيل بطاقة السائق وبيانات المنشأة والترخيص الرئيسي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
